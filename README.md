@@ -27,6 +27,6 @@
 
 ---
 
-## ✍️ 書いた人
+## 書いた人
 
 [TOM](https://github.com/tomnyancat)
